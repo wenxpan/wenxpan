@@ -19,18 +19,27 @@
 
 I'm proficient in:
 
+[![Frontend Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,vite)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,py,flask,postman)](https://skillicons.dev)
+[![Database Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
+
+<!--
 - Frontend: HTML5, CSS3, JavaScript, React, Bootstrap
 - Backend: Node.js, Express.js, Python, Flask
 - Databases: MongoDB, PostgreSQL
 - Testing: Jest, Vitest, Pytest
+-->
 
 I'm Currently Learning:
 
+[![learning Skills](https://skillicons.dev/icons?i=tailwind,ts,styledcomponents,sass,nextjs,docker&theme=light)](https://skillicons.dev)
+
+<!--
 - TypeScript
 - Tailwind CSS
-- Next.js
+- Next.js-->
 
-I'm mostly interested in MERN stack development and Web Accessibility!
+I'm mostly interested in MERN stack development and Web Accessibility.
 
 ## 📦 Projects
 
@@ -58,29 +67,40 @@ I'm mostly interested in MERN stack development and Web Accessibility!
 <details>
 <summary><strong>Cat Diet API</strong></summary>
 
+<br />
+
+[Repository](https://github.com/wenxuan-pan/cat-diet-api)
+
 - **Tech Stack:** Python (Flask), PostgreSQL
 - Created a REST API to assist cat owners in managing their cats' diets and food preferences.
 - Implemented JWT tokens for secure authentication and authorization.
-- [Repository](https://github.com/wenxuan-pan/cat-diet-api)
+
 </details>
 
 
 <details>
 <summary><strong>Digital Yearbook (Team Project)</strong></summary>
 
+<br />
+
+[Repository](https://github.com/wenxuan-pan/Full_Stack_App_T3A2-B-Frontend)
+
 - **Tech Stack:** Utilizes React and React-Bootstrap with React Router for frontend, managing global state through React's Context API.
 - Employs JWT tokens for secure authentication, with async API calls to fetch and manage school data.
 - Features a scalable, modular frontend architecture for easy feature and route expansion.
-- [Repository](https://github.com/wenxuan-pan/Full_Stack_App_T3A2-B-Frontend)
+  
 </details>
 
 <details>
 <summary><strong>To Do or Not To Do (In progress)</strong></summary>
 
+<br />
+
+[Repository](https://github.com/wenxuan-pan/to-do-or-not-to-do)
+
 - **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js)
 - Utilizes React to create a dynamic user interface that supports comprehensive task cards, random task prompts, and progress-tracking functionalities.
 - Leverages MongoDB to store detailed task information for a nuanced task management experience.
-- [Repository](https://github.com/wenxuan-pan/to-do-or-not-to-do)
 </details>
   
 ## 📫 How to Reach Me
