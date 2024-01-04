@@ -13,15 +13,15 @@
 
 ## About Me
 
-👋 Hello! I'm Wen (she/her), a junior web developer deeply enthusiastic about the ever-changing landscape of technology. My passion lies in coding and creating accessible websites that solve real-world problems. My background in translation and project management has armed me with a solid foundation in problem-solving skills. As a recent graduate of Coder Academy, I'm not just entering the tech industry—I'm diving into a lifelong learning journey where every project is a new challenge and opportunity for growth.
+👋 Hello! I'm Wen (she/her), a web developer deeply enthusiastic about the ever-changing landscape of technology. My passion lies in coding and creating accessible websites that solve real-world problems. My background in translation and project management has armed me with a solid foundation in problem-solving skills. As a recent graduate of Coder Academy, I'm not just entering the tech industry—I'm diving into a lifelong learning journey where every project is a new challenge and opportunity for growth.
 
 ## 🛠️ Technologies & Tools
 
 I'm proficient in:
 
-[![Frontend Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,vite)](https://skillicons.dev)
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,py,flask,postman)](https://skillicons.dev)
-[![Database Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,vite,tailwind,ts&theme=light)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,py,flask,postman,aws,docker&theme=light)](https://skillicons.dev)
+[![Database Skills](https://skillicons.dev/icons?i=mongodb,postgres&theme=light)](https://skillicons.dev)
 
 <!--
 - Frontend: HTML5, CSS3, JavaScript, React, Bootstrap
@@ -32,7 +32,7 @@ I'm proficient in:
 
 I'm Currently Learning:
 
-[![learning Skills](https://skillicons.dev/icons?i=tailwind,ts,styledcomponents,sass,nextjs,docker&theme=light)](https://skillicons.dev)
+[![learning Skills](https://skillicons.dev/icons?i=styledcomponents,sass,nextjs,go&theme=light)](https://skillicons.dev)
 
 <!--
 - TypeScript
@@ -92,15 +92,15 @@ I'm mostly interested in MERN stack development and Web Accessibility.
 </details>
 
 <details>
-<summary><strong>To Do or Not To Do (In progress)</strong></summary>
+<summary><strong>Task Hatch</strong></summary>
 
 <br />
 
-[Repository](https://github.com/wenxuan-pan/to-do-or-not-to-do)
+[Repository](https://github.com/wenxpan/task-hatch-frontend)
 
-- **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js)
-- Utilizes React to create a dynamic user interface that supports comprehensive task cards, random task prompts, and progress-tracking functionalities.
-- Leverages MongoDB to store detailed task information for a nuanced task management experience.
+- **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js), Tailwind CSS, Typescript
+- **Advanced Task Management Features**: Engineered a variety of features including task addition, modification, deletion, progress tracking, and filtering capabilities. Integrated reminders and snooze functions to enhance user productivity, along with a unique 'Random Task Draw' feature for prioritizing tasks dynamically.
+- D**ata Persistence and API Design**: Developed a robust backend with Node.js and Express.js, coupled with MongoDB for data persistence, ensuring reliable storage and retrieval of task data. Designed and tested RESTful APIs with Postman, ensuring smooth communication between the frontend and backend and a seamless user experience.
 </details>
   
 ## 📫 How to Reach Me
