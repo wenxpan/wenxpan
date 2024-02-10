@@ -13,31 +13,19 @@
 
 ## About Me
 
-👋 Hello! I'm Wen (she/her), a web developer deeply enthusiastic about the ever-changing landscape of technology. My passion lies in coding and creating accessible websites that solve real-world problems. My background in translation and project management has armed me with a solid foundation in problem-solving skills. As a recent graduate of Coder Academy, I'm not just entering the tech industry—I'm diving into a lifelong learning journey where every project is a new challenge and opportunity for growth.
+👋 Hello! I'm Wen (she/her), a web developer deeply enthusiastic about the ever-changing landscape of technology. My passion lies in coding and creating accessible web applications that solve real-world problems. My background in translation and project management has armed me with a solid foundation in problem-solving skills. As a graduate of Coder Academy, I'm not just entering the tech industry—I'm diving into a lifelong learning journey where every project is a new challenge and opportunity for growth.
 
 ## 🛠️ Technologies & Tools
 
-I'm proficient in:
+I'm equipped with:
 
-[![Frontend Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,vite,tailwind,ts&theme=light)](https://skillicons.dev)
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,py,flask,postman,aws,docker&theme=light)](https://skillicons.dev)
-[![Database Skills](https://skillicons.dev/icons?i=mongodb,postgres&theme=light)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vite,bootstrap,tailwind,astro)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,py,flask,postman,aws,docker)](https://skillicons.dev)
+[![Database Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 
-<!--
-- Frontend: HTML5, CSS3, JavaScript, React, Bootstrap
-- Backend: Node.js, Express.js, Python, Flask
-- Databases: MongoDB, PostgreSQL
-- Testing: Jest, Vitest, Pytest
--->
+I'm planning to learn:
 
-I'm Currently Learning:
-
-[![learning Skills](https://skillicons.dev/icons?i=styledcomponents,sass,nextjs,go&theme=light)](https://skillicons.dev)
-
-<!--
-- TypeScript
-- Tailwind CSS
-- Next.js-->
+[![learning Skills](https://skillicons.dev/icons?i=styledcomponents,java,go)](https://skillicons.dev)
 
 I'm mostly interested in MERN stack development and Web Accessibility.
 
@@ -65,18 +53,28 @@ I'm mostly interested in MERN stack development and Web Accessibility.
 -->
 
 <details>
-<summary><strong>Cat Diet API</strong></summary>
+<summary><strong>Tailwind Color Contrast Checker</strong></summary>
 
 <br />
 
-[Repository](https://github.com/wenxuan-pan/cat-diet-api)
+[Deployed Page](https://tailwind-a11y.wenxpan.com/)
 
-- **Tech Stack:** Python (Flask), PostgreSQL
-- Created a REST API to assist cat owners in managing their cats' diets and food preferences.
-- Implemented JWT tokens for secure authentication and authorization.
+- **Tech Stack:** React, Tailwind CSS, Typescript
+- A simple tool that lets you check Tailwind CSS color contrasts for WCAG compliance.
 
 </details>
 
+<details>
+<summary><strong>Task Hatch</strong></summary>
+
+<br />
+
+[Repository](https://github.com/wenxpan/task-hatch-frontend)
+
+- **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js), Tailwind CSS, Typescript
+- **Advanced Task Management Features**: Engineered a variety of features including task addition, modification, deletion, progress tracking, and filtering capabilities. Integrated reminders and snooze functions to enhance user productivity, along with a unique 'Random Task Draw' feature for prioritizing tasks dynamically.
+- **Data Persistence and API Design**: Developed a robust backend with Node.js and Express.js, coupled with MongoDB for data persistence, ensuring reliable storage and retrieval of task data. Designed and tested RESTful APIs with Postman, ensuring smooth communication between the frontend and backend and a seamless user experience.
+</details>
 
 <details>
 <summary><strong>Digital Yearbook (Team Project)</strong></summary>
@@ -92,15 +90,16 @@ I'm mostly interested in MERN stack development and Web Accessibility.
 </details>
 
 <details>
-<summary><strong>Task Hatch</strong></summary>
+<summary><strong>Cat Diet API</strong></summary>
 
 <br />
 
-[Repository](https://github.com/wenxpan/task-hatch-frontend)
+[Repository](https://github.com/wenxuan-pan/cat-diet-api)
 
-- **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js), Tailwind CSS, Typescript
-- **Advanced Task Management Features**: Engineered a variety of features including task addition, modification, deletion, progress tracking, and filtering capabilities. Integrated reminders and snooze functions to enhance user productivity, along with a unique 'Random Task Draw' feature for prioritizing tasks dynamically.
-- D**ata Persistence and API Design**: Developed a robust backend with Node.js and Express.js, coupled with MongoDB for data persistence, ensuring reliable storage and retrieval of task data. Designed and tested RESTful APIs with Postman, ensuring smooth communication between the frontend and backend and a seamless user experience.
+- **Tech Stack:** Python (Flask), PostgreSQL
+- Created a REST API to assist cat owners in managing their cats' diets and food preferences.
+- Implemented JWT tokens for secure authentication and authorization.
+
 </details>
   
 ## 📫 How to Reach Me
