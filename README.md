@@ -1,4 +1,4 @@
-# Wenxuan Pan (Wen) 👩‍💻
+# Wenxuan Pan 👩‍💻
 
 <p>
   <a
@@ -13,21 +13,25 @@
 
 ## About Me
 
-👋 Hello! I'm Wen (she/her), a web developer deeply enthusiastic about the ever-changing landscape of technology. My passion lies in coding and creating accessible web applications that solve real-world problems. My background in translation and project management has armed me with a solid foundation in problem-solving skills. As a graduate of Coder Academy, I'm not just entering the tech industry—I'm diving into a lifelong learning journey where every project is a new challenge and opportunity for growth.
+👋 Hello! I'm Wen/Amy, a web developer deeply enthusiastic about the ever-changing landscape of technology. My passion lies in coding and creating accessible web applications that solve real-world problems.
 
 ## 🛠️ Technologies & Tools
 
 I'm equipped with:
 
-[![Frontend Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vite,bootstrap,tailwind,astro)](https://skillicons.dev)
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,py,flask,postman,aws,docker)](https://skillicons.dev)
-[![Database Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,astro)](https://skillicons.dev)
+
+[![Backend & Database Skills](https://skillicons.dev/icons?i=nodejs,express,py,flask,mongodb,postgres,postman,aws,docker)](https://skillicons.dev)
 
 I'm planning to learn:
 
-[![learning Skills](https://skillicons.dev/icons?i=styledcomponents,java,go)](https://skillicons.dev)
+[![learning Skills](https://skillicons.dev/icons?i=redux,java,go,nestjs,cs)](https://skillicons.dev)
 
-I'm mostly interested in MERN stack development and Web Accessibility.
+Other things I'm interested in:
+- Web Accessibility
+- UX Design (Figma Prototyping)
+- Internalisation & Localisation
+- AI
 
 ## 📦 Projects
 
@@ -51,6 +55,19 @@ I'm mostly interested in MERN stack development and Web Accessibility.
 - [Repository](https://github.com/wenxuan-pan/word-puzzle)
 </details>
 -->
+
+<details>
+<summary><strong>Code Sharing Platform (Team Project)</strong></summary>
+
+<br />
+
+[Repository](https://github.com/wenxpan/code-sharing-platform)
+
+- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Convex, Descope Auth
+- A platform for developers to share their work and provide peer feedback.
+ 
+</details>
+
 
 <details>
 <summary><strong>Tailwind Color Contrast Checker</strong></summary>
